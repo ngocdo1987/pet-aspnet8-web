@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CB8SAgC5rf+tb2UnWAxrVmcSo3Ilge9K7pa5KYVXFA6ebMMWmgm5NqgHvxoXpPzCm1Avx4EHXN+FoL9BhUBJ4g==",
+  "success": true,
+  "projectFilePath": "/home/contabo1/projects/CSHARP/pet-aspnet8-web/pet-aspnet8-web.csproj",
+  "expectedPackageFiles": [
+    "/home/contabo1/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.7/microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

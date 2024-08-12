@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/pet-aspnet8-web.props" />
+</Project>

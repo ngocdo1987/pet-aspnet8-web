@@ -1,0 +1,7 @@
+/home/contabo1/projects/CSHARP/aspnet8-www/pet-aspnet8-web
+/home/contabo1/projects/CSHARP/aspnet8-www/appsettings.Development.json
+/home/contabo1/projects/CSHARP/aspnet8-www/appsettings.json
+/home/contabo1/projects/CSHARP/aspnet8-www/pet-aspnet8-web.dll
+/home/contabo1/projects/CSHARP/aspnet8-www/pet-aspnet8-web.deps.json
+/home/contabo1/projects/CSHARP/aspnet8-www/pet-aspnet8-web.runtimeconfig.json
+/home/contabo1/projects/CSHARP/aspnet8-www/pet-aspnet8-web.pdb
