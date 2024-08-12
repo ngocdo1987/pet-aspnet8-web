@@ -14,6 +14,51 @@ Check again
 ```bash
 dotnet --info
 ```
+Output
+```
+.NET SDK:
+ Version:           8.0.107
+ Commit:            1bdaef7265
+ Workload version:  8.0.100-manifests.43c23f91
+
+Runtime Environment:
+ OS Name:     ubuntu
+ OS Version:  22.04
+ OS Platform: Linux
+ RID:         ubuntu.22.04-x64
+ Base Path:   /usr/lib/dotnet/sdk/8.0.107/
+
+.NET workloads installed:
+ Workload version: 8.0.100-manifests.43c23f91
+There are no installed workloads to display.
+
+Host:
+  Version:      8.0.7
+  Architecture: x64
+  Commit:       2aade6beb0
+
+.NET SDKs installed:
+  8.0.107 [/usr/lib/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 8.0.7 [/usr/lib/dotnet/shared/Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 8.0.7 [/usr/lib/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+```
 # Create new ASP.NET 8 project
 ```bash
 dotnet new blazor -o pet-aspnet8-web
